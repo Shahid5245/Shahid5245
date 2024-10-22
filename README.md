@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a passionate backend engineer with a strong foundation in Ruby on Rails. I'm always eager to explore new tools and technologies to stay up-to-date with the latest trends in the industry.
+I'm a passionate backend engineer with 2+ years of experience in Ruby on Rails. I'm always eager to explore new tools and technologies to stay up-to-date with the latest trends in the industry.
 
 **My interests include:**
 - Ruby on Rails development
