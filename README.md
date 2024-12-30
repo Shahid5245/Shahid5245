@@ -19,7 +19,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://x.com/shahid__s_" target="_blank">
-     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
