@@ -30,7 +30,7 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img width="450" height="194" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahid5245&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
-    <img width="352" height="194" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img width="352" height="193" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div style="text-align: center;">
