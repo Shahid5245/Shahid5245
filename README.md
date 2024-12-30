@@ -9,7 +9,7 @@ A Software Engineer exploring new technologies and ready to contribute to open-s
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid5245&theme=prussian&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="194"/>
 ![](https://github-readme-stats.vercel.app/api?username=Shahid5245&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
 
 
