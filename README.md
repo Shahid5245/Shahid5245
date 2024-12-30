@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Shahid5245&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="194"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahid5245&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" width="449"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="194"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid5245&theme=prussian&hide_border=true)
 
