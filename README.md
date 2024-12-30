@@ -30,7 +30,9 @@
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img width="450" height="194" src="https://github-readme-stats-salesp07.vercel.app/api?username=Shahid5245&count_private=true&show_icons=true&theme=react&rank_icon=github" alt="readme stats" />
-    <img width="352" height="192" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img width="352" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     <br/>
-    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <div style="text-align: center;">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid5245&theme=react&hide_border=true" alt="top langs" />
+  </div>
 </div>
