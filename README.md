@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Hi there, I'm Shahid!<br>A Software Engineer exploring new technologies and ready to contribute to open-source projects.
+# 👋Hi there, I'm Shahid!
+A Software Engineer exploring new technologies and ready to contribute to open-source projects.
 
 <br>
 
