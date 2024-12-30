@@ -2,7 +2,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shahid5245.Shahid5245" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+Hi+There!;+I'm+Shahid!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Shahid!;" />
+    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand GIF" width="50" height="50" style="vertical-align: middle;" />
 </h1>
 
 <h3 align="center">A passionate software engineer exploring new technologies and ready to contribute any open-source projects. Grateful to connect with fellow tech enthusiasts and engineers!</h3>
