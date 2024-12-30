@@ -1,17 +1,19 @@
-Hi there! 👋
+# 💫 About Me:
+👋Hi there, I'm Shahid!<br><br>A Software Engineer exploring new technologies and ready to contribute to open-source projects.
 
-I'm a passionate backend engineer with 2+ years of experience in Ruby on Rails. I'm always eager to explore new tools and technologies to stay up-to-date with the latest trends in the industry.
 
-**My interests include:**
-- Ruby on Rails development
-- Backend architecture and design
-- Building scalable and efficient systems
-- Contributing to open source projects
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahid5245/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shahid__s_) 
 
-📫 Reach me : 
-- LinkedIn - https://www.linkedin.com/in/shahid5245/
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shahid5245&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid5245&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid5245&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!---
-Shahid5245/Shahid5245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shahid5245&limit=5&theme=moltack&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shahid5245&icon=8&color=3)](https://visitcount.itsvg.in)
