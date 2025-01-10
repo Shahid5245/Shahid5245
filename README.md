@@ -38,7 +38,7 @@
 </div>
 
 # 
-<div style="display: inline-flex; align-items: center;">
+<div style="display: inline-flex; align-items: center; height: 60px;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="margin-right: 10px;">
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
