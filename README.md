@@ -40,6 +40,6 @@
 <br/>
 <div style="display: inline-flex; align-items: center;">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" style="margin-right: 10px;">
-  <span style="line-height: 1; display: inline-block;"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></span>
+  <em><b style="vertical-align: middle;">I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
 
